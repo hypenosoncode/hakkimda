@@ -3,7 +3,7 @@
 <img alt="Night Coding" src="./pictures/Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Ismail Selcuk</h2>
 ### ENG:
 
-### 💻 &nbsp;About Me
+### 👨🏻‍ &nbsp;About Me
 
 🎓 &nbsp;I 'm currently studying 💡 Electrical and Electronics Engineering at Istanbul Gelişim University and I am doing a Double Major Program in ✈️ Aeronautical Engineering.\
 👾 &nbsp;I 'm on my way to learn more about Embedded Software, Avionic Systems, Image Processing, Artificial Intelligence and PCB Design.\
