@@ -17,3 +17,7 @@
 ![C#](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=csharp)&nbsp;
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autodesk)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=simulink)&nbsp;
+![Eagle PCB](https://img.shields.io/badge/-Autodesk%20Eagle-05122A?style=flat&logo=eagle)&nbsp;
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-05122A?style=flat&logo=altium)&nbsp;
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=%F0%9F%8C%A0)&nbsp;
+
