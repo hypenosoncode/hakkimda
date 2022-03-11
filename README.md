@@ -16,6 +16,8 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=csharp)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=simulink)&nbsp;
+![Arduino](https://img.shields.io/badge/-Arduino%20IDE-05122A?style=flat&logo=arduino)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autodesk)&nbsp;
 ![Eagle PCB](https://img.shields.io/badge/-Autodesk%20Eagle-05122A?style=flat&logo=eagle)&nbsp;
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-05122A?style=flat&logo=altium)&nbsp;
