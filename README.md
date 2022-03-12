@@ -15,6 +15,7 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=csharp)&nbsp;
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=wolframmathematica)&nbsp;
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=Dassault%20Systèmes)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=STMicroelectronics)&nbsp;
 ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=ESPHome)&nbsp;
@@ -22,17 +23,17 @@
 ![Eagle PCB](https://img.shields.io/badge/-Autodesk%20Eagle-05122A?style=flat&logo=Eagle)&nbsp;
 ![Proteus](https://img.shields.io/badge/-Proteus-05122A?style=flat&logo=Electron)&nbsp;
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-05122A?style=flat&logo=altiumdesigner)&nbsp;
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=Dassault%20Systèmes)&nbsp;
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoftoffice)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
 
-### 🤝🏻 &nbsp;Contact Me
+### 🤝🏻 &nbsp;Contact Me & Social Media
 
 <p align="center">
 <a href="mailto:cinarismailselcuk@gmail.com"><img src="https://img.shields.io/badge/-cinarismailselcuk@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ismailselcukcinar/"><img src="https://img.shields.io/badge/-%C4%B0smail%20Sel%C3%A7uk%20%C3%87%C4%B1nar-0077B5?style=flat&logo=Linkedin&logoColor=white%22"/</a>
 <a href="https://instagram.com/ismail_selcuks"><img src="https://img.shields.io/badge/-@ismail__selcuks_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/ismail_selcuks"><img src="https://img.shields.io/badge/-@ismail__selcuks_-1976c2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCSt6rE5y6iklyFBpm-0xOYA"><img src="https://img.shields.io/badge/-YouTube_-c4302b?style=flat&logo=YouTube&logoColor=white"/></a>
 </p>
