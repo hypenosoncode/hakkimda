@@ -6,7 +6,7 @@
 
 🎓 &nbsp;I 'm currently studying 💡 Electrical and Electronics Engineering at Istanbul Gelişim University and I 'm doing a Double Major Program in ✈️ Aeronautical Engineering.\
 👾 &nbsp;I 'm on my way to learn more about Embedded Software, Avionic Systems, Image Processing, Artificial Intelligence and PCB Design.\
-❤️ &nbsp;I love dealing with development boards. (Arduino, ESP32 etc.)\
+❤️ &nbsp;I love doing different projects with development boards and dealing with LoRa communication modules. LoRa will be the technology of the future!\
 📧 &nbsp;If you have any problems you can send me an email at cinarismailselcuk@gmail.com I will try to answer as soon as possible.
 
 ### 👨🏻‍💻 &nbsp;Programming Languages & Programs I Use
