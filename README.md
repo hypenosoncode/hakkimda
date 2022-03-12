@@ -32,4 +32,4 @@
 <a href="https://www.linkedin.com/in/ismailselcukcinar/"><img src="https://img.shields.io/badge/-%C4%B0smail%20Sel%C3%A7uk%20%C3%87%C4%B1nar-0077B5?style=flat&logo=Linkedin&logoColor=white%22"/</a>
 <a href="https://instagram.com/ismail_selcuks"><img src="https://img.shields.io/badge/-@ismail__selcuks_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/ismail_selcuks"><img src="https://img.shields.io/badge/-@ismail__selcuks_-1976c2?style=flat&logo=Twitter&logoColor=white"/></a>
-</p>
+</p>hjkkhjkhjk
