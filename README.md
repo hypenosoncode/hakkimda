@@ -19,9 +19,10 @@
 ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=STMicroelectronics)&nbsp;
 ![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=ESPHome)&nbsp;
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autodesk)&nbsp;
-![Eagle PCB](https://img.shields.io/badge/-Autodesk%20Eagle-05122A?style=flat&logo=adobe)&nbsp;
+![Eagle PCB](https://img.shields.io/badge/-Autodesk%20Eagle-05122A?style=flat&logo=Eagle)&nbsp;
+![Proteus](https://img.shields.io/badge/-Proteus-05122A?style=flat&logo=Electron)&nbsp;
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-05122A?style=flat&logo=altiumdesigner)&nbsp;
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=Slides)&nbsp;
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=Dassault%20Systèmes)&nbsp;
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoftoffice)&nbsp;
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
