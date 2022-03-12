@@ -14,7 +14,7 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![C#](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=csharp)&nbsp;
-![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=wolframmathematica)&nbsp;
+![MATLAB](https://img.shields.io/badge/-MATLAB%20&%20Simulink-05122A?style=flat&logo=wolframmathematica)&nbsp;
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=Dassault%20Systèmes)&nbsp;
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autodesk)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
