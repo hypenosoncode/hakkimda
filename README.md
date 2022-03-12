@@ -31,10 +31,10 @@
 ### 🤝🏻 &nbsp;Contact Me & Social Media
 
 <p align="center">
-<a href="mailto:cinarismailselcuk@gmail.com"><img src="https://img.shields.io/badge/-cinarismailselcuk@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ismailselcukcinar/"><img src="https://img.shields.io/badge/-%C4%B0smail%20Sel%C3%A7uk%20%C3%87%C4%B1nar-0077B5?style=flat&logo=Linkedin&logoColor=white%22"/</a>
-<a href="https://instagram.com/ismail_selcuks"><img src="https://img.shields.io/badge/-@ismail__selcuks_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/ismail_selcuks"><img src="https://img.shields.io/badge/-@ismail__selcuks_-1976c2?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="mailto:cinarismailselcuk@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ismailselcukcinar/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white%22"/</a>
+<a href="https://instagram.com/ismail_selcuks"><img src="https://img.shields.io/badge/-Instagram_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/ismail_selcuks"><img src="https://img.shields.io/badge/-Twitter_-1976c2?style=flat&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCSt6rE5y6iklyFBpm-0xOYA"><img src="https://img.shields.io/badge/-YouTube_-c4302b?style=flat&logo=YouTube&logoColor=white"/></a>
 <a href="https://discordapp.com/users/652243845790302239/"><img src="https://img.shields.io/badge/-Discord_-6A5ACD?style=flat&logo=Discord&logoColor=white"/></a>
 </p>
