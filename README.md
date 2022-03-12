@@ -17,7 +17,7 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-05122A?style=flat&logo=wolframmathematica)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino%20IDE-05122A?style=flat&logo=arduino)&nbsp;
 ![AutoCAD](https://img.shields.io/badge/-AutoCAD-05122A?style=flat&logo=autodesk)&nbsp;
-![Eagle PCB](https://img.shields.io/badge/-Autodesk%20Eagle-05122A?style=flat&logo=eagle)&nbsp;
+![Eagle PCB](https://img.shields.io/badge/-Autodesk%20Eagle-05122A?style=flat&logo=adobe)&nbsp;
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-05122A?style=flat&logo=altiumdesigner)&nbsp;
 ![SolidWorks](https://img.shields.io/badge/-SolidWorks-05122A?style=flat&logo=solid)&nbsp;
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoftoffice)&nbsp;
