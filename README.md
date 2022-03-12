@@ -1,4 +1,4 @@
-![github_banner](https://user-images.githubusercontent.com/74931027/157998937-0c70d39f-0140-4c5c-90af-f101d91c3c2f.gif)
+![github_banner](https://user-images.githubusercontent.com/74931027/157999051-171839b8-f531-4fd6-b42d-9894e44b4dd1.gif)
 
 <img alt="Night Coding" src="./pictures/Hand%20Wave.gif" width='40' align="left"/><h2>Hi! I'm Ismail Selcuk</h2>
 
