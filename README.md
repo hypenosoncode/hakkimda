@@ -5,7 +5,7 @@
 ### ✨&nbsp;About Me
 
 🎓 &nbsp;I 'm currently studying 💡 Electrical and Electronics Engineering at Istanbul Gelisim University and I 'm doing a Double Major Program in ✈️ Aeronautical Engineering.\
-👾 &nbsp;I 'm on my way to learn more about Embedded Software, Avionic Systems, Image Processing, Artificial Intelligence and PCB Design.\
+👾 &nbsp;I 'm on my way to learn more about Embedded Software, Avionic Systems and PCB Design.\
 ❤️ &nbsp;I love doing different projects with development boards and dealing with LoRa communication modules. LoRa will be the technology of the future!\
 📧 &nbsp;If you have any problems you can send me an email at cinarismailselcuk@gmail.com I will try to answer as soon as possible.
 
@@ -24,9 +24,6 @@
 ![Proteus](https://img.shields.io/badge/-Proteus-05122A?style=flat&logo=Electron)&nbsp;
 ![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-05122A?style=flat&logo=altiumdesigner)&nbsp;
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoftoffice)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
 
 ### 🤝🏻 &nbsp;Contact Me & Social Media
 
